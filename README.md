@@ -1,25 +1,35 @@
-<h1 align="center">Hi 👋, I'm Arthur Breguez</h1>
-<h3 align="center">Backend, DevOps and Blockchain ♥</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=artbreguez" alt="artbreguez" /></a> </p>
+```zsh
+> neofetch
+```
 
-- 🌱 I’m currently learning **Hardhat, Kubernetes, Golang**
+<img align="left" src="https://media.licdn.com/dms/image/D4D03AQGA-TGqI171dQ/profile-displayphoto-shrink_800_800/0/1708296959397?e=1715817600&v=beta&t=lwVtYztLNBtRH8qTgvHrBs5O80TJNUp8TErk88tBCP4" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
 
-- 👨‍💻 All of my projects are available at [https://github.com/ArtBreguez?tab=repositories](https://github.com/ArtBreguez?tab=repositories)
-
-- 💬 Ask me about **solidity, blockchain, devops, laravel.**
-
-- 📫 How to reach me **arthurbreguez@gmail.com**
-
-- 📄 Know about my experiences [Docker, PHP, ELK, Kubernetes, Shell, Solidity, Python](Docker, PHP, ELK, Kubernetes, Shell, Solidity, Python)
-
-<h3 align="left">Connect with me:</h3>
+```csharp
+Arthur Breguez
+-------------------------
+OS: Ubuntu 16.04
+Shell: zsh 5.8
+Pronouns: He/Him
+Location: Brazil, ES
+Frameworks: TensorFlow, PyTorch, Keras, HuggingFace, Flask, Hardhat, Laravel
+Languages: Golang, Python, C, C++, JavaScript, PHP, Solidity
+Technologies: Docker, Git, Linux, Grafana, Matlab, MySql, Sqlite3, Shell
+Hobbies: Gym, Sing, Gaming, Camping
+Experience: Machine Learning, Backend Development, DevOps, Engineering
+```
 <p align="left">
-<a href="https://instagram.com/arthurbreguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arthurbreguez" height="30" width="40" /></a>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="#A4A6A5" src="https://via.placeholder.com/15/A4A6A5/000000?text=+" width="25" height="20" /><img alt="#C99B75" src="https://via.placeholder.com/15/C99B75/000000?text=+" width="25" height="20" /><img alt="#894E2E" src="https://via.placeholder.com/15/894E2E/000000?text=+" width="25" height="20" /><img alt="#434D4A" src="https://via.placeholder.com/15/434D4A/000000?text=+" width="25" height="20" /><img alt="#12110D" src="https://via.placeholder.com/15/12110D/000000?text=+" width="25" height="20" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+### 🤝🏻 &nbsp;Connect with Me
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=artbreguez&show_icons=true&locale=en&layout=compact" alt="artbreguez" /></p>
-
+<p align="center">
+  <a href="https://www.arthurbreguez.info" title="Website">
+  <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white&link=https://www.arthurbreguez.info" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/breguez-ai" title="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/breguez-ai" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/arthurbreguez" title="Instagram">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/arthurbreguez" alt="Instagram"/></a>
+</p>
