@@ -3,7 +3,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://media.licdn.com/dms/image/D4D03AQGA-TGqI171dQ/profile-displayphoto-shrink_800_800/0/1708296959397?e=1715817600&v=beta&t=lwVtYztLNBtRH8qTgvHrBs5O80TJNUp8TErk88tBCP4" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
+<img align="left" src="https://i.ibb.co/qMn8870/fotor-ai-20240315214856.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
 
 ```csharp
 Arthur Breguez
