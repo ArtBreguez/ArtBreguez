@@ -20,7 +20,7 @@ Experience: Machine Learning, Backend Development, DevOps, Engineering
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="#A4A6A5" src="https://via.placeholder.com/15/A4A6A5/000000?text=+" width="25" height="20" /><img alt="#C99B75" src="https://via.placeholder.com/15/C99B75/000000?text=+" width="25" height="20" /><img alt="#894E2E" src="https://via.placeholder.com/15/894E2E/000000?text=+" width="25" height="20" /><img alt="#434D4A" src="https://via.placeholder.com/15/434D4A/000000?text=+" width="25" height="20" /><img alt="#12110D" src="https://via.placeholder.com/15/12110D/000000?text=+" width="25" height="20" />
+  <img alt="##4f5654" src="https://via.placeholder.com/15/4F5654/000000?text=+" width="25" height="20" /><img alt="#8E502F" src="https://via.placeholder.com/15/C99B75/000000?text=+" width="25" height="20" /><img alt="#21474E" src="https://via.placeholder.com/15/894E2E/000000?text=+" width="25" height="20" /><img alt="#060504" src="https://via.placeholder.com/15/434D4A/000000?text=+" width="25" height="20" /><img alt="#ADA7A1" src="https://via.placeholder.com/15/12110D/000000?text=+" width="25" height="20" />
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
