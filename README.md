@@ -8,7 +8,7 @@
 ```csharp
 Arthur Breguez
 -------------------------
-OS: Ubuntu 16.04
+OS: Ubuntu 18.04.2 LTS x86_64
 Shell: zsh 5.8
 Pronouns: He/Him
 Location: Brazil, ES
