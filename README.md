@@ -6,7 +6,7 @@
 <img align="left" src="https://i.ibb.co/qMn8870/fotor-ai-20240315214856.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
 
 ```csharp
-Arthur Breguez
+arthurbreguez@ubuntu-bionic
 -------------------------
 OS: Ubuntu 18.04.2 LTS x86_64
 Shell: zsh 5.8
